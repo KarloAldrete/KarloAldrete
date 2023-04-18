@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karlo Aldrete</h1>
-<h3 align="center">A programming student passionate about technology and NFTs.</h3>
+<h3 align="center">A web fullstack developer passionate about technology.</h3>
 
 - 🔭 I’m currently working on [Patio Inmobiliario, Inc.](https://www.patioinmobiliario.com)
 
