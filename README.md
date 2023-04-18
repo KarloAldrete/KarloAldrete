@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karlo Aldrete</h1>
 <h3 align="center">A programming student passionate about technology and NFTs.</h3>
 
-- 🔭 I’m currently working on [Axol Towers IRL Real Estate](https://www.axoltowers.com)
+- 🔭 I’m currently working on [Patio Inmobiliario, Inc.](https://www.patioinmobiliario.com)
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently using **Typescript and React with VITE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarloAldrete](https://github.com/KarloAldrete)
 
 - 📝 I regularly post some things at Twitter: [https://twitter.com/1kav01](https://twitter.com/1kav01)
 
-- 📫 How to reach me **karlo.aldretev1@gmail.com**
+- 📫 How to reach me **karloaldretedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
