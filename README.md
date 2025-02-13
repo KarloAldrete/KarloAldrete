@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karlo Aldrete</h1>
-<h3 align="center">A web fullstack developer passionate about technology.</h3>
+<h3 align="center">A web fullstack developer.</h3>
 
-- 🔭 I’m currently working on [Patio Inmobiliario, Inc.](https://www.patioinmobiliario.com)
-
-- 🌱 I’m currently using **Typescript and React with VITE**
+- 🌱 I’m currently using **Typescript and NEXTJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarloAldrete](https://github.com/KarloAldrete)
 
-- 📝 I regularly post some things at Twitter: [https://twitter.com/1kav01](https://twitter.com/1kav01)
+- 📝 I regularly post some things at Twitter: [https://twitter.com/1kav01](https://twitter.com/karloaldretev)
 
 - 📫 How to reach me **karloaldretedev@gmail.com**
 
