@@ -1,18 +1,35 @@
-<h1 align="center">Hi 👋, I'm Karlo Aldrete</h1>
-<h3 align="center">A web fullstack developer.</h3>
+# Karlo Aldrete
 
-- 🌱 I’m currently using **Typescript and NEXTJS**
+Product engineer in Tijuana, MX. I build 0-to-1 products, then measure
+whether the architecture actually pays for itself.
 
-- 👨‍💻 All of my projects are available at [https://github.com/KarloAldrete](https://github.com/KarloAldrete)
+## Now
 
-- 📝 I regularly post some things at Twitter: [https://twitter.com/1kav01](https://twitter.com/karloaldretev)
+- **[frameshi](https://frameshi.com)** — cinematic product videos filmed from
+  your live product, not a rebuilt demo. We wrote our own rendering engine: it
+  takes ownership of Chromium's clock, so the same screenplay produces
+  byte-identical frames on every run.
+- **[Habitae](https://habitae.mx)** — PropTech for independent real-estate
+  agents in Mexico: [agentes.habitae.mx](https://agentes.habitae.mx) for
+  agents, [habitae.mx](https://habitae.mx) for buyers, one backend underneath.
+- **[PostHog Code](https://github.com/PostHog/code)** — measured performance
+  contributions to PostHog's agentic coding app.
 
-- 📫 How to reach me **karloaldretedev@gmail.com**
+## Numbers, not adjectives
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1kav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1kav01" height="30" width="40" /></a>
-</p>
+- Streamed markdown rendering: killed an O(n²) re-parse on every token —
+  up to **17× less render CPU** on long replies.
+  [Writeup →](https://karloaldrete.xyz/smooth-cheap-agent-streaming)
+- Sidebar re-renders during streamed agent replies: **20 → 0**.
+  [Writeup →](https://karloaldrete.xyz/from-20-renders-to-zero)
+- Habitae's maps layer: **$680/mo vendor bill → $0**, map-first discovery intact.
+- frameshi cloud renders: **1440p60 at ~$0.04 per video** on
+  Cloudflare Workers + Containers.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Writing
+
+I document what I build, with evidence, at **[karloaldrete.xyz](https://karloaldrete.xyz)**.
+
+---
+
+karloaldretedev@gmail.com · [LinkedIn](https://www.linkedin.com/in/karloaldretedev/)
