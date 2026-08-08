@@ -5,7 +5,7 @@ the loop, then measure whether the architecture actually pays for itself.
 
 ## Now
 
-- **[frameshi](https://frameshi.com)** — cinematic product videos filmed from your live
+- **[Frameshi](https://frameshi.com)** — cinematic product videos filmed from your live
   product, not a rebuilt demo. Our engine takes ownership of Chromium's clock, so the same
   screenplay produces byte-identical frames on every run, and clones any live URL into a
   self-contained pack in 12–26s.
